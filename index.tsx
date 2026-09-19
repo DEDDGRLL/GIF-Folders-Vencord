@@ -61,7 +61,7 @@ export default definePlugin({
     name: "GifFolders",
     description:
         "Organise your favourite GIFs into your own named folders. A GIF can live in several folders, and folders never touch your Discord favourites.",
-    authors: [{ name: "You", id: 0n }],
+    authors: [{ name: "DEDGRL!", id: 911971108071301170n }],
     settings,
 
     contextMenus: {
